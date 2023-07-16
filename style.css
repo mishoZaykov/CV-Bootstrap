@@ -1,0 +1,86 @@
+.profile-picture{
+ width: 180px;
+ height: 180px;
+ border-radius: 100px;
+}
+.container{
+position: relative;
+width: 100%;
+max-width: 1000px;
+background: #fff;
+margin: 50px;
+box-shadow: 0 50px 75px rgba(0, 0, 0, 0.1);
+border-left: 50px solid #fff;
+border-right: 50px solid #fff;
+}
+.name {
+  font-family: 'Raleway', sans-serif;
+  font-size: 80px;
+  text-align: center;
+}
+.name strong {
+  color: #424242;
+}
+.study{
+  font-family: 'Raleway', sans-serif;
+  text-align:center;
+}
+
+.h2{
+  font-family: 'Raleway', sans-serif;
+  font-weight: bold;
+  color: #424242;
+}
+
+p{
+  color: #4b4b4b85;
+}
+
+li{
+  color: #4b4b4b85;
+}
+
+#school-title{
+  font-size: 15px;
+}
+
+#responsibilities{
+  text-align: center;
+  border-style: groove;
+  border-left: none;
+  border-top: none;
+  border-right: none;
+
+}
+
+#projects{
+  text-align: center;
+  border-style: groove;
+  border-left: none;
+  border-top: none;
+  border-right: none;
+}
+
+a{
+  color: #4b4b4b85;
+}
+
+#info{
+  border-style: groove;
+  border-top: none;
+  border-left: none;
+}
+
+#profile{
+  border-style: groove;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+}
+
+#skills{
+  border-style: groove;
+  border-top: none;
+  border-left: none;
+  border-bottom: none;
+}
