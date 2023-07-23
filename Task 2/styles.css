@@ -33,6 +33,7 @@ body {
   width: 210px;
   display: flex;
   justify-content: space-between;
+  transition: transform 0.5s;
 }
 
 /* Making the shape and size on the eyes and the eyelids */
@@ -59,6 +60,8 @@ body {
   background-color: hsla(194, 70%, 42%, 0.877);
   border-radius: 100%;
   margin-left: 10px;
+  transition: transform 0.5s;
+
 }
 
 /* Making the eyes pupils and making the eyes look to the right */
@@ -70,6 +73,8 @@ body {
   background-color: black;
   border-radius: 100%;
   margin-left: 15px;
+  transition: transform 0.5s;
+
 }
 
 /* Making the shape and color of the eyebrows */
@@ -169,6 +174,8 @@ body {
   border-radius: 60% 60% 110% 110%;
 }
 
-.brows:hover{
-  transform: translateY(10px);
+/* Created a transition when you hover over the eyebrows */
+.head:hover .brows{
+  transform: translateY(-10px);
 }
+
