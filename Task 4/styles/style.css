@@ -1,0 +1,234 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.form {
+  width: 700px;
+  border-radius: 5px;
+  background: #c4c3c3;
+  box-shadow: 4px 4px 5px rgba(82, 82, 82, 0.4);
+  text-align: left;
+  margin-top: 200px;
+}
+
+.transition-fade {
+  opacity: 1;
+  transition: 500ms;
+  transform: translateX(0);
+  transform-origin: left;
+}
+
+html.is-animating .transition-fade {
+  opacity: 1;
+  transform: translateX(100%);
+}
+
+html.is-leaving .transition-fade {
+  opacity: 0;
+  transform: translateX(0);
+}
+
+.success-popup {
+  display: none;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: #4caf50;
+  padding: 20px;
+  border-radius: 5px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
+  text-align: center;
+  z-index: 1000;
+}
+
+.checkmark-container {
+  width: 70px;
+  height: 70px;
+  margin: 0 auto 20px;
+}
+
+.checkmark {
+  width: 70px;
+  height: 70px;
+  border-radius: 50%;
+  display: block;
+  stroke-width: 3;
+  stroke-miterlimit: 10;
+  margin: 10% auto;
+  box-shadow: inset 0px 0px 0px #7ac142;
+}
+
+.draw {
+  stroke-dasharray: 166;
+  stroke-dashoffset: 166;
+  animation: draw 0.6s cubic-bezier(0.65, 0, 0.45, 1) forwards;
+}
+
+@keyframes draw {
+  100% {
+    stroke-dashoffset: 0;
+  }
+}
+.form-field {
+  position: relative;
+  margin: 10px;
+}
+
+.form-field label {
+  position: absolute;
+  top: 50%;
+  left: 5px;
+  transform: translateY(-50%);
+  font-size: 16px;
+  padding: 0 5px;
+  pointer-events: none;
+  transition: 0.5s;
+}
+
+.form-field input {
+  width: 320px;
+  height: 40px;
+  font-size: 16px;
+  padding: 0 10px;
+  background: transparent;
+  border: 1.2px solid #fff;
+  outline: none;
+  border-radius: 5px;
+}
+
+.form-field input:focus ~ label,
+.form-field input:valid ~ label {
+  top: 0;
+  font-size: 16px;
+  background: #c4c3c3;
+}
+
+a {
+  margin: 10px;
+}
+
+.btn:hover {
+  transform: scale(1.2);
+}
+
+.btn {
+  position: relative;
+  overflow: hidden;
+  padding: 10px 20px;
+  margin: 10px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s, transform 0.2s;
+}
+
+.btn:after {
+  content: "";
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 0;
+  height: 0;
+  background-color: rgba(255, 255, 255, 0.3);
+  border-radius: 50%;
+  opacity: 0;
+  transition: width 0.3s ease-out, height 0.3s ease-out, opacity 0.3s ease-out;
+}
+
+.btn:focus:after {
+  width: 200%;
+  height: 200%;
+  opacity: 1;
+}
+
+.accordion-page {
+  width: 90%;
+  border-radius: 5px;
+  background: #2184f5;
+  box-shadow: 4px 4px 5px rgba(82, 82, 82, 0.4);
+  text-align: left;
+  margin-top: 200px;
+}
+
+.accordion-section {
+  border: 1px solid #ffffff;
+  border-radius: 5px;
+  margin-bottom: 10px;
+  overflow: hidden;
+  transition: max-height 0.3s ease-out;
+}
+
+.accordion-title {
+  padding: 10px;
+  margin: 0;
+  cursor: pointer;
+}
+
+.accordion-content {
+  padding: 10px;
+  background-color: rgba(140, 227, 253, 0.6705882353);
+  display: none;
+}
+
+.accordion-section.active .accordion-content {
+  display: block;
+}
+
+.social-media-buttons {
+  display: flex;
+  margin: 10px;
+}
+
+.social-media-button {
+  position: relative;
+  display: inline-block;
+  margin: 0 10px;
+  cursor: pointer;
+}
+
+.icon {
+  width: 40px;
+  height: 40px;
+  background-size: cover;
+}
+
+.icon.facebook {
+  background-image: url("/styles/images/facebook.png");
+}
+
+.icon.twitter {
+  background-image: url("/styles/images/twitter.png");
+}
+
+.icon.instagram {
+  background-image: url("/styles/images/instagram.png");
+}
+
+.platform-name {
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  transform: translateX(-50%);
+  opacity: 0;
+  white-space: nowrap;
+  background-color: #fff;
+  padding: 5px 10px;
+  border-radius: 5px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+  transition: opacity 0.2s, transform 0.2s;
+}
+
+.social-media-button:hover .platform-name {
+  opacity: 1;
+  transform: translateX(-50%) translateY(-5px);
+}/*# sourceMappingURL=style.css.map */
