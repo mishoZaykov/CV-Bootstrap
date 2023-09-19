@@ -1,0 +1,2182 @@
+
+.MEGAPARTS-landing {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    max-width: 100%;
+    margin: 0 auto;
+    height: 100%;
+  }
+  
+  .MEGAPARTS-landing .div {
+    background-color: #ffffff;
+    width: 100%;
+    position: relative;
+  }
+  
+  .MEGAPARTS-landing .animation-highlights {
+    position: absolute;
+    max-width: 1180px;
+    height: 56px;
+    top: 732px;
+    left: 300px;
+  }
+  
+  .MEGAPARTS-landing .frame {
+    display: inline-flex;
+    align-items: flex-start;
+    justify-content: center;
+    gap: 15px;
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+  
+  .MEGAPARTS-landing .vector {
+    position: relative;
+    max-width: 56px;
+    height: 49.48px;
+  }
+  
+  .MEGAPARTS-landing .frame-2 {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 8px;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .MEGAPARTS-landing .text-wrapper {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Exo 2", Helvetica;
+    font-weight: 700;
+    color: #19242d;
+    font-size: 13px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .MEGAPARTS-landing .text-wrapper-2 {
+    font-family: "Exo 2", Helvetica;
+    font-weight: 500;
+    color: #777777;
+    font-size: 13px;
+    position: relative;
+    width: fit-content;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .MEGAPARTS-landing .frame-3 {
+    display: inline-flex;
+    align-items: flex-start;
+    justify-content: center;
+    gap: 15px;
+    position: absolute;
+    top: 0;
+    left: 313px;
+  }
+  
+  .MEGAPARTS-landing .img {
+    position: relative;
+    max-width: 56px;
+    height: 56px;
+  }
+  
+  .MEGAPARTS-landing .frame-4 {
+    display: inline-flex;
+    align-items: flex-start;
+    gap: 10px;
+    position: absolute;
+    top: 0;
+    left: 641px;
+  }
+  
+  .MEGAPARTS-landing .vector-2 {
+    position: relative;
+    max-width: 55.99px;
+    height: 55.89px;
+  }
+  
+  .MEGAPARTS-landing .frame-5 {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 7px;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .MEGAPARTS-landing .frame-6 {
+    display: inline-flex;
+    align-items: flex-start;
+    gap: 15px;
+    position: absolute;
+    top: 0;
+    left: 925px;
+  }
+  
+  .MEGAPARTS-landing .vector-3 {
+    position: relative;
+    max-width: 55.74px;
+    height: 55.77px;
+  }
+  
+  .MEGAPARTS-landing .element {
+    display: flex;
+    max-width: 1179px;
+    align-items: flex-start;
+    gap: 50px;
+    position: absolute;
+    top: 1842px;
+    left: 250px;
+  }
+  
+  .MEGAPARTS-landing .view {
+    display: flex;
+    flex-direction: column;
+    max-width: 271px;
+    align-items: center;
+    gap: 10px;
+    padding: 15px;
+    position: relative;
+    background-color: #ffffff;
+    border-radius: 25px;
+    border: 2px solid;
+    border-color: #dc5426;
+    box-shadow: 0px 0px 20px #00000026;
+  }
+  
+  .MEGAPARTS-landing .frame-7 {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .MEGAPARTS-landing .vector-4 {
+    position: relative;
+    max-width: 17.78px;
+    height: 16px;
+  }
+  
+  .MEGAPARTS-landing .text-wrapper-3 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Roboto", Helvetica;
+    font-weight: 700;
+    color: #dc5426;
+    font-size: 20px;
+    white-space: nowrap;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .MEGAPARTS-landing .text-wrapper-4 {
+    position: relative;
+    align-self: stretch;
+    font-family: "Exo 2", Helvetica;
+    font-weight: 500;
+    color: #999999;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .MEGAPARTS-landing .view-2 {
+    display: flex;
+    flex-direction: column;
+    max-width: 271px;
+    align-items: center;
+    gap: 10px;
+    padding: 15px;
+    position: relative;
+    background-color: #ffffff;
+    border-radius: 25px;
+    border: 2px solid;
+    border-color: #5fb865;
+    box-shadow: 0px 0px 20px #00000026;
+  }
+  
+  .MEGAPARTS-landing .img-2 {
+    position: relative;
+    width: 15px;
+    height: 15px;
+  }
+  
+  .MEGAPARTS-landing .text-wrapper-5 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Roboto", Helvetica;
+    font-weight: 700;
+    color: #5fb865;
+    font-size: 20px;
+    white-space: nowrap;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .MEGAPARTS-landing .MEGA {
+    position: relative;
+    align-self: stretch;
+    font-weight: 400;
+    color: #999999;
+    font-size: 16px;
+    text-align: center;
+    font-family: "Roboto", Helvetica;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .MEGAPARTS-landing .span {
+    font-weight: 800;
+  }
+  
+  .MEGAPARTS-landing .text-wrapper-6 {
+    font-family: "Exo 2", Helvetica;
+    font-weight: 500;
+  }
+  
+  .MEGAPARTS-landing .view-3 {
+    display: flex;
+    flex-direction: column;
+    max-width: 271px;
+    align-items: center;
+    gap: 10px;
+    padding: 15px;
+    position: relative;
+    background-color: #ffffff;
+    border-radius: 25px;
+    border: 2px solid;
+    border-color: #008aee;
+    box-shadow: 0px 0px 20px #00000026;
+  }
+  
+  .MEGAPARTS-landing .vector-5 {
+    position: relative;
+    width: 15px;
+    height: 16px;
+  }
+  
+  .MEGAPARTS-landing .text-wrapper-7 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Roboto", Helvetica;
+    font-weight: 700;
+    color: #008aee;
+    font-size: 20px;
+    white-space: nowrap;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .MEGAPARTS-landing .view-4 {
+    display: flex;
+    flex-direction: column;
+    max-width: 271px;
+    align-items: center;
+    gap: 10px;
+    padding: 15px;
+    position: relative;
+    margin-right: -1px;
+    background-color: #ffffff;
+    border-radius: 25px;
+    border: 2px solid;
+    border-color: #0042ee;
+    box-shadow: 0px 0px 20px #00000026;
+  }
+  
+  .MEGAPARTS-landing .vector-6 {
+    position: relative;
+    width: 18.09px;
+    height: 16px;
+  }
+  
+  .MEGAPARTS-landing .text-wrapper-8 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Roboto", Helvetica;
+    font-weight: 700;
+    color: #0042ee;
+    font-size: 20px;
+    white-space: nowrap;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .MEGAPARTS-landing .element-2 {
+    display: inline-flex;
+    align-items: flex-start;
+    gap: 50px;
+    position: absolute;
+    top: 1539px;
+    left: 250px;
+  }
+  
+  .MEGAPARTS-landing .view-5 {
+    display: flex;
+    flex-direction: column;
+    max-width: 271px;
+    min-height: 271px;
+    align-items: center;
+    justify-content: space-between;
+    padding: 25px 15px;
+    position: relative;
+    background-color: #63c7c9;
+    border-radius: 25px;
+    box-shadow: 0px 0px 20px #00000026;
+  }
+  
+  .MEGAPARTS-landing .frame-8 {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 5px;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .MEGAPARTS-landing .vector-7 {
+    position: relative;
+    width: 32px;
+    height: 28.7px;
+  }
+  
+  .MEGAPARTS-landing .text-wrapper-9 {
+    position: relative;
+    width: fit-content;
+    font-family: "Exo 2", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 26px;
+    white-space: nowrap;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .MEGAPARTS-landing .text-wrapper-10 {
+    position: relative;
+    align-self: stretch;
+    font-family: "Exo 2", Helvetica;
+    font-weight: 500;
+    color: #ededed;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .MEGAPARTS-landing .frame-9 {
+    display: inline-flex;
+    align-items: center;
+    gap: 10px;
+    padding: 5px 15px;
+    position: relative;
+    flex: 0 0 auto;
+    background-color: #ffffff;
+    border-radius: 25px;
+  }
+  
+  .MEGAPARTS-landing .text-wrapper-11 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Roboto", Helvetica;
+    font-weight: 700;
+    color: #63c7c8;
+    font-size: 18px;
+    white-space: nowrap;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .MEGAPARTS-landing .vector-8 {
+    position: relative;
+    width: 7px;
+    height: 12.86px;
+  }
+  
+  .MEGAPARTS-landing .view-6 {
+    display: flex;
+    flex-direction: column;
+    max-width: 271px;
+    min-height: 271px;
+    align-items: center;
+    justify-content: space-between;
+    padding: 25px 15px 10px;
+    position: relative;
+    background-color: #dc5426;
+    border-radius: 25px;
+    box-shadow: 0px 0px 20px #00000026;
+  }
+  
+  .MEGAPARTS-landing .img-3 {
+    position: relative;
+    max-width: 32px;
+    min-height: 32px;
+  }
+  
+  .MEGAPARTS-landing .p {
+    position: relative;
+    align-self: stretch;
+    font-family: "Exo 2", Helvetica;
+    font-weight: 400;
+    color: #ededed;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .MEGAPARTS-landing .text-wrapper-12 {
+    font-weight: 500;
+  }
+  
+  .MEGAPARTS-landing .text-wrapper-13 {
+    font-family: "Roboto", Helvetica;
+    font-weight: 800;
+  }
+  
+  .MEGAPARTS-landing .frame-10 {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .MEGAPARTS-landing .text-wrapper-14 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Roboto", Helvetica;
+    font-weight: 700;
+    color: #dc5426;
+    font-size: 18px;
+    white-space: nowrap;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .MEGAPARTS-landing .frame-11 {
+    display: inline-flex;
+    align-items: center;
+    gap: 5px;
+    position: relative;
+    flex: 0 0 auto;
+    border-radius: 25px;
+  }
+  
+  .MEGAPARTS-landing .text-wrapper-15 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 14px;
+    white-space: nowrap;
+    font-family: "Roboto", Helvetica;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .MEGAPARTS-landing .vector-9 {
+    position: relative;
+    width: 5px;
+    height: 9.19px;
+  }
+  
+  .MEGAPARTS-landing .view-7 {
+    display: flex;
+    flex-direction: column;
+    max-width: 271px;
+    min-height: 271px;
+    align-items: center;
+    justify-content: space-between;
+    padding: 25px 15px 10px;
+    position: relative;
+    background-color: #e59d48;
+    border-radius: 25px;
+    box-shadow: 0px 0px 20px #00000026;
+  }
+  
+  .MEGAPARTS-landing .text-wrapper-16 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Roboto", Helvetica;
+    font-weight: 700;
+    color: #e59d48;
+    font-size: 18px;
+    white-space: nowrap;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .MEGAPARTS-landing .view-8 {
+    display: flex;
+    flex-direction: column;
+    max-width: 271px;
+    min-height: 271px;
+    align-items: center;
+    justify-content: space-between;
+    padding: 25px 15px;
+    position: relative;
+    background-color: #bc5fe8;
+    border-radius: 25px;
+    box-shadow: 0px 0px 20px #00000026;
+  }
+  
+  .MEGAPARTS-landing .frame-wrapper {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 3px;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .MEGAPARTS-landing .text-wrapper-17 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Roboto", Helvetica;
+    font-weight: 700;
+    color: #bc5fe8;
+    font-size: 18px;
+    white-space: nowrap;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .MEGAPARTS-landing .overlap-wrapper {
+    position: absolute;
+    max-width: 1150px;
+    min-height: 261px;
+    top: 2011px;
+    left: 142px;
+  }
+  
+  .MEGAPARTS-landing .overlap-group {
+    position: relative;
+    max-width: 261px;
+  }
+  
+  .MEGAPARTS-landing .group {
+    position: absolute;
+    max-width: 575px;
+    min-height: 197px;
+    top: 32px;
+    left: 575px;
+  }
+  
+  .MEGAPARTS-landing .group-2 {
+    position: absolute;
+    width: 574px;
+    height: 197px;
+    top: 32px;
+    left: 0;
+  }
+  
+  .MEGAPARTS-landing .overlap-group-wrapper {
+    position: absolute;
+    width: 1150px;
+    height: 261px;
+    top: 0;
+    left: 150px;
+  }
+  
+  .MEGAPARTS-landing .element-3 {
+    display: flex;
+    flex-direction: column;
+    width: 350px;
+    height: 154px;
+    align-items: center;
+    justify-content: space-between;
+    padding: 14.73px;
+    position: absolute;
+    top: 54px;
+    left: 800px;
+    background-color: #ffffff;
+    border-radius: 14.73px;
+    box-shadow: 0px 0px 20px #00000014;
+  }
+  
+  .MEGAPARTS-landing .frame-12 {
+    display: flex;
+    flex-direction: column;
+    height: 72.48px;
+    align-items: center;
+    gap: 11.78px;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+  }
+  
+  .MEGAPARTS-landing .image {
+    position: relative;
+    width: 16.89px;
+    height: 15.32px;
+  }
+  
+  .MEGAPARTS-landing .text-wrapper-18 {
+    position: relative;
+    align-self: stretch;
+    font-family: "Roboto", Helvetica;
+    font-weight: 500;
+    color: #19242d;
+    font-size: 9.4px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .MEGAPARTS-landing .frame-13 {
+    display: inline-flex;
+    align-items: flex-start;
+    justify-content: center;
+    gap: 5.89px;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .MEGAPARTS-landing .ellipse {
+    position: relative;
+    width: 22.39px;
+    height: 22.39px;
+    background-color: #008aee;
+    border-radius: 11.2px;
+  }
+  
+  .MEGAPARTS-landing .frame-14 {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: space-between;
+    position: relative;
+    align-self: stretch;
+    flex: 0 0 auto;
+  }
+  
+  .MEGAPARTS-landing .text-wrapper-19 {
+    margin-top: -0.59px;
+    font-family: "Roboto", Helvetica;
+    font-weight: 700;
+    color: #008aee;
+    font-size: 9.4px;
+    white-space: nowrap;
+    position: relative;
+    width: fit-content;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .MEGAPARTS-landing .frame-15 {
+    position: relative;
+    flex: 0 0 auto;
+    margin-bottom: -0.75px;
+    margin-left: -0.75px;
+  }
+  
+  .MEGAPARTS-landing .element-4 {
+    display: flex;
+    flex-direction: column;
+    width: 350px;
+    height: 154px;
+    align-items: center;
+    justify-content: space-between;
+    padding: 14.73px;
+    position: absolute;
+    top: 54px;
+    left: 0;
+    background-color: #ffffff;
+    border-radius: 14.73px;
+    box-shadow: 0px 0px 20px #00000014;
+  }
+  
+  .MEGAPARTS-landing .element-5 {
+    width: 450px;
+    height: 198px;
+    align-items: center;
+    justify-content: space-between;
+    padding: 18.94px;
+    position: absolute;
+    top: 32px;
+    left: 575px;
+    background-color: #ffffff;
+    border-radius: 18.94px;
+    box-shadow: 0px 0px 20px #00000014;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .MEGAPARTS-landing .frame-16 {
+    height: 93.18px;
+    gap: 15.15px;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .MEGAPARTS-landing .image-2 {
+    position: relative;
+    width: 21.71px;
+    height: 19.7px;
+  }
+  
+  .MEGAPARTS-landing .text-wrapper-20 {
+    position: relative;
+    align-self: stretch;
+    margin-bottom: -10.91px;
+    font-family: "Roboto", Helvetica;
+    font-weight: 500;
+    color: #19242d;
+    font-size: 12.1px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .MEGAPARTS-landing .frame-17 {
+    gap: 7.58px;
+    display: inline-flex;
+    align-items: flex-start;
+    justify-content: center;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .MEGAPARTS-landing .ellipse-2 {
+    width: 28.79px;
+    height: 28.79px;
+    border-radius: 14.39px;
+    position: relative;
+    background-color: #008aee;
+  }
+  
+  .MEGAPARTS-landing .text-wrapper-21 {
+    margin-top: -0.76px;
+    font-family: "Roboto", Helvetica;
+    font-weight: 700;
+    color: #008aee;
+    font-size: 12.1px;
+    white-space: nowrap;
+    position: relative;
+    width: fit-content;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .MEGAPARTS-landing .element-6 {
+    display: flex;
+    flex-direction: column;
+    width: 450px;
+    height: 198px;
+    align-items: center;
+    justify-content: space-between;
+    padding: 18.94px;
+    position: absolute;
+    top: 32px;
+    left: 125px;
+    background-color: #ffffff;
+    border-radius: 18.94px;
+    box-shadow: 0px 0px 20px #00000014;
+  }
+  
+  .MEGAPARTS-landing .text-wrapper-22 {
+    font-size: 12.1px;
+    position: relative;
+    align-self: stretch;
+    font-family: "Roboto", Helvetica;
+    font-weight: 500;
+    color: #19242d;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .MEGAPARTS-landing .element-7 {
+    width: 594px;
+    height: 261px;
+    align-items: center;
+    justify-content: space-between;
+    padding: 25px;
+    position: absolute;
+    top: 0;
+    left: 278px;
+    background-color: #ffffff;
+    border-radius: 25px;
+    box-shadow: 0px 0px 20px #00000014;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .MEGAPARTS-landing .frame-18 {
+    height: 123px;
+    gap: 20px;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .MEGAPARTS-landing .image-3 {
+    position: relative;
+    width: 28.66px;
+    height: 26px;
+  }
+  
+  .MEGAPARTS-landing .text-wrapper-23 {
+    font-size: 16px;
+    position: relative;
+    align-self: stretch;
+    font-family: "Roboto", Helvetica;
+    font-weight: 500;
+    color: #19242d;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .MEGAPARTS-landing .frame-19 {
+    gap: 10px;
+    display: inline-flex;
+    align-items: flex-start;
+    justify-content: center;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .MEGAPARTS-landing .ellipse-3 {
+    width: 38px;
+    height: 38px;
+    border-radius: 19px;
+    position: relative;
+    background-color: #008aee;
+  }
+  
+  .MEGAPARTS-landing .text-wrapper-24 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Roboto", Helvetica;
+    font-weight: 700;
+    color: #008aee;
+    font-size: 16px;
+    white-space: nowrap;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .MEGAPARTS-landing .vector-10 {
+    position: absolute;
+    width: 22px;
+    height: 32px;
+    top: 115px;
+    left: 400px;
+  }
+  
+  .MEGAPARTS-landing .vector-11 {
+    position: absolute;
+    width: 22px;
+    height: 32px;
+    top: 115px;
+    left: 1030px;
+  }
+  
+  .MEGAPARTS-landing .view-9 {
+    position: absolute;
+    width: 1180px;
+    height: 271px;
+    top: 1188px;
+    left: 250px;
+  }
+  
+  .MEGAPARTS-landing .overlap {
+    position: absolute;
+    width: 877px;
+    height: 272px;
+    top: -1px;
+    left: 0;
+  }
+  
+  .MEGAPARTS-landing .slider {
+    position: absolute;
+    width: 877px;
+    height: 246px;
+    top: 25px;
+    left: 0;
+    overflow: hidden;
+  }
+  
+  .MEGAPARTS-landing .view-10 {
+    display: inline-flex;
+    align-items: flex-start;
+    gap: 32px;
+    position: relative;
+    top: 12px;
+  }
+  
+  .MEGAPARTS-landing .element-8 {
+    width: 271px;
+    align-items: flex-start;
+    gap: 4.97px;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .MEGAPARTS-landing .image-4 {
+    position: relative;
+    width: 271px;
+    height: 179.54px;
+    object-fit: cover;
+  }
+  
+  .MEGAPARTS-landing .frame-20 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 2.98px;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    flex: 0 0 auto;
+  }
+  
+  .MEGAPARTS-landing .audi-coupe-i {
+    position: relative;
+    align-self: stretch;
+    margin-top: -0.99px;
+    font-family: "Roboto", Helvetica;
+    font-weight: 400;
+    color: transparent;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .MEGAPARTS-landing .text-wrapper-25 {
+    font-weight: 700;
+    color: #5fb865;
+  }
+  
+  .MEGAPARTS-landing .text-wrapper-26 {
+    font-family: "Exo 2", Helvetica;
+    font-weight: 700;
+    color: #19242d;
+  }
+  
+  .MEGAPARTS-landing .text-wrapper-27 {
+    font-weight: 700;
+    color: #008aee;
+  }
+  
+  .MEGAPARTS-landing .image-5 {
+    margin-bottom: -1084.97px;
+    margin-left: -4480px;
+    position: relative;
+    width: 271px;
+    height: 179.54px;
+    object-fit: cover;
+  }
+  
+  .MEGAPARTS-landing .image-6 {
+    margin-bottom: -1084.97px;
+    margin-left: -4783px;
+    position: relative;
+    width: 271px;
+    height: 179.54px;
+    object-fit: cover;
+  }
+  
+  .MEGAPARTS-landing .image-7 {
+    margin-bottom: -1084.97px;
+    margin-left: -5086px;
+    position: relative;
+    width: 271px;
+    height: 179.54px;
+    object-fit: cover;
+  }
+  
+  .MEGAPARTS-landing .text-wrapper-28 {
+    position: absolute;
+    width: 285px;
+    top: 0;
+    left: 0;
+    font-family: "Exo 2", Helvetica;
+    font-weight: 700;
+    color: #19242d;
+    font-size: 17px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .MEGAPARTS-landing .frame-21 {
+    width: 271px;
+    height: 271px;
+    justify-content: space-between;
+    padding: 25px 15px;
+    position: absolute;
+    top: 0;
+    left: 909px;
+    background-color: #5fb865;
+    border-radius: 25px;
+    box-shadow: 0px 0px 20px #00000026;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .MEGAPARTS-landing .text-wrapper-29 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Roboto", Helvetica;
+    font-weight: 700;
+    color: #5fb865;
+    font-size: 18px;
+    white-space: nowrap;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .MEGAPARTS-landing .view-11 {
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    max-width: 1180px;
+    height: 278px;
+    top: 830px;
+    left: 250px;
+  }
+  
+  .MEGAPARTS-landing .overlap-2 {
+    position: absolute;
+    width: 877px;
+    height: 279px;
+    top: -1px;
+    left: 303px;
+  }
+  
+  .MEGAPARTS-landing .div-wrapper {
+    position: absolute;
+    width: 877px;
+    height: 246px;
+    top: 32px;
+    left: 0;
+    overflow: hidden;
+  }
+  
+  .MEGAPARTS-landing .overlap-group-2 {
+    position: relative;
+    width: 1786px;
+    height: 246px;
+  }
+  
+  .MEGAPARTS-landing .view-12 {
+    display: inline-flex;
+    align-items: flex-start;
+    gap: 32px;
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+  
+  .MEGAPARTS-landing .text-wrapper-30 {
+    position: relative;
+    align-self: stretch;
+    margin-top: -0.99px;
+    font-family: "Exo 2", Helvetica;
+    font-weight: 700;
+    color: #19242d;
+    font-size: 14.6px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .MEGAPARTS-landing .div-2 {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    flex: 0 0 auto;
+  }
+  
+  .MEGAPARTS-landing .text-wrapper-31 {
+    position: relative;
+    width: fit-content;
+    font-family: "Roboto", Helvetica;
+    font-weight: 400;
+    color: #999999;
+    font-size: 12.5px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .MEGAPARTS-landing .text-wrapper-32 {
+    position: relative;
+    width: fit-content;
+    margin-top: -0.99px;
+    font-family: "Exo 2", Helvetica;
+    font-weight: 700;
+    color: #5fb865;
+    font-size: 18.8px;
+    text-align: right;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .MEGAPARTS-landing .image-8 {
+    margin-bottom: -1423.79px;
+    margin-left: -4783px;
+    position: relative;
+    width: 271px;
+    height: 179.54px;
+    object-fit: cover;
+  }
+  
+  .MEGAPARTS-landing .image-9 {
+    margin-bottom: -1423.79px;
+    margin-left: -5086px;
+    position: relative;
+    width: 271px;
+    height: 179.54px;
+    object-fit: cover;
+  }
+  
+  .MEGAPARTS-landing .image-10 {
+    margin-bottom: -1423.79px;
+    margin-left: -5389px;
+    position: relative;
+    width: 271px;
+    height: 179.54px;
+    object-fit: cover;
+  }
+  
+  .MEGAPARTS-landing .fade {
+    position: absolute;
+    width: 218px;
+    height: 246px;
+    top: 0;
+    left: 659px;
+    background: linear-gradient(180deg, rgb(255, 255, 255) 0%, rgba(255, 255, 255, 0) 100%);
+  }
+  
+  .MEGAPARTS-landing .arrow {
+    position: absolute;
+    width: 12px;
+    height: 22px;
+    top: 112px;
+    left: 865px;
+  }
+  
+  .MEGAPARTS-landing .text-wrapper-33 {
+    position: absolute;
+    width: 227px;
+    top: 0;
+    left: 0;
+    font-family: "Exo 2", Helvetica;
+    font-weight: 700;
+    color: #19242d;
+    font-size: 17px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .MEGAPARTS-landing .frame-22 {
+    display: flex;
+    flex-direction: column;
+    width: 271px;
+    height: 271px;
+    align-items: center;
+    justify-content: space-between;
+    padding: 25px 15px;
+    position: absolute;
+    top: 7px;
+    left: 0;
+    background-color: #008aee;
+    border-radius: 25px;
+    border: 2px solid;
+    box-shadow: 0px 0px 20px #00000026;
+  }
+  
+  .MEGAPARTS-landing .text-wrapper-34 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Roboto", Helvetica;
+    font-weight: 700;
+    color: #008aee;
+    font-size: 18px;
+    white-space: nowrap;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .MEGAPARTS-landing .overlap-3 {
+    position: absolute;
+    width: 100%;
+    height: 408px;
+    top: 0;
+    left: 0;
+  }
+  
+  .MEGAPARTS-landing .animation {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 264px;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    padding: 25px 10px;
+    position: absolute;
+    top: 144px;
+    left: 0;
+    background-color: #008aee;
+  }
+  
+  .MEGAPARTS-landing .view-wrapper {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 264px;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    padding: 10px 0px;
+    position: relative;
+    margin-top: -25px;
+    margin-bottom: -25px;
+    margin-left: -10px;
+    margin-right: -10px;
+    background-color: #008aee;
+  }
+  
+  .MEGAPARTS-landing .view-13 {
+    display: flex;
+    flex-direction: column;
+    width: 1179px;
+    align-items: flex-start;
+    gap: 25px;
+    padding: 20px 25px;
+    position: relative;
+    flex: 0 0 auto;
+    background-color: #fdfdfd;
+    border-radius: 25px;
+    overflow: hidden;
+    box-shadow: 0px 0px 10px #00000026;
+  }
+  
+  .MEGAPARTS-landing .header {
+    display: flex;
+    width: 1120px;
+    align-items: flex-start;
+    gap: 15px;
+    position: relative;
+    flex: 0 0 auto;
+    background-color: transparent;
+  }
+  
+  .MEGAPARTS-landing .frame-23 {
+    position: relative;
+    flex: 0 0 auto;
+    margin-left: -2px;
+  }
+  
+  .MEGAPARTS-landing .text-wrapper-35 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Exo 2", Helvetica;
+    font-weight: 700;
+    color: #19242d;
+    font-size: 26px;
+    white-space: nowrap;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .MEGAPARTS-landing .frame-24 {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 10px;
+    padding: 16px 443px 16px 25px;
+    position: relative;
+    flex: 0 0 auto;
+    border-radius: 25px;
+    border: 1px solid;
+    border-color: #008aee;
+  }
+  
+  .MEGAPARTS-landing .text-wrapper-36 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Exo 2", Helvetica;
+    font-weight: 500;
+    color: #777777;
+    font-size: 20px;
+    white-space: nowrap;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .MEGAPARTS-landing .frame-25 {
+    display: inline-flex;
+    align-items: flex-start;
+    gap: 10px;
+    padding: 12.5px 30px;
+    position: relative;
+    flex: 0 0 auto;
+    background-color: #008aee;
+    border-radius: 25px;
+  }
+  
+  .MEGAPARTS-landing .text-wrapper-37 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Exo 2", Helvetica;
+    font-weight: 700;
+    color: #fdfdfd;
+    font-size: 26px;
+    white-space: nowrap;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .MEGAPARTS-landing .filters {
+    display: inline-flex;
+    align-items: flex-start;
+    gap: 10px;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .MEGAPARTS-landing .frame-26 {
+    display: inline-flex;
+    align-items: flex-start;
+    gap: 10px;
+    padding: 6px 22px;
+    position: relative;
+    flex: 0 0 auto;
+    background-color: #008aee;
+    border-radius: 25px;
+  }
+  
+  .MEGAPARTS-landing .text-wrapper-38 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Exo 2", Helvetica;
+    font-weight: 700;
+    color: #fdfdfd;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .MEGAPARTS-landing .frame-27 {
+    display: inline-flex;
+    align-items: flex-start;
+    gap: 10px;
+    padding: 6px 22px;
+    position: relative;
+    flex: 0 0 auto;
+    border-radius: 25px;
+    border: 1.5px solid;
+    border-color: #008aee;
+  }
+  
+  .MEGAPARTS-landing .text-wrapper-39 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1.5px;
+    font-family: "Exo 2", Helvetica;
+    font-weight: 500;
+    color: #19242d;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .MEGAPARTS-landing .frame-28 {
+    display: inline-flex;
+    align-items: flex-start;
+    gap: 10px;
+    padding: 6px 22px;
+    position: relative;
+    flex: 0 0 auto;
+    border-radius: 25px;
+    border: 1.5px solid;
+    border-color: #5fb865;
+  }
+  
+  .MEGAPARTS-landing .frame-29 {
+    display: inline-flex;
+    align-items: flex-start;
+    gap: 10px;
+    padding: 6px 22px;
+    position: relative;
+    flex: 0 0 auto;
+    border-radius: 25px;
+    border: 1.5px solid;
+    border-color: #63c7c9;
+  }
+  
+  .MEGAPARTS-landing .frame-30 {
+    display: inline-flex;
+    align-items: flex-start;
+    gap: 10px;
+    padding: 6px 22px;
+    position: relative;
+    flex: 0 0 auto;
+    border-radius: 25px;
+    border: 1.5px solid;
+    border-color: #dc5426;
+  }
+  
+  .MEGAPARTS-landing .frame-31 {
+    display: inline-flex;
+    align-items: flex-start;
+    gap: 10px;
+    padding: 6px 22px;
+    position: relative;
+    flex: 0 0 auto;
+    border-radius: 25px;
+    border: 1.5px solid;
+    border-color: #e59d48;
+  }
+  
+  .MEGAPARTS-landing .animation-navbar {
+    position: absolute;
+    width: 100%;
+    height: 154px;
+    top: 0;
+    left: 0;
+  }
+  
+  .MEGAPARTS-landing .overlap-4 {
+    position: absolute;
+    width: 100%;
+    height: 82px;
+    top: 72px;
+    left: 0;
+  }
+  
+  .MEGAPARTS-landing .rectangle {
+    height: 72px;
+    top: 0;
+    background-color: #202d39;
+    position: absolute;
+    width: 100%;
+    left: 0;
+  }
+  
+  .MEGAPARTS-landing .frame-32 {
+    display: flex;
+    width: 1249px;
+    height: 32px;
+    align-items: flex-start;
+    gap: 20px;
+    position: absolute;
+    top: 20px;
+    left: 275px;
+  }
+  
+  .MEGAPARTS-landing .frame-33 {
+    display: inline-flex;
+    align-items: flex-start;
+    gap: 8px;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .MEGAPARTS-landing .frame-34 {
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .MEGAPARTS-landing .frame-35 {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    padding: 5px 15px;
+    position: relative;
+    flex: 0 0 auto;
+    background-color: #008aee;
+    border-radius: 25px;
+  }
+  
+  .MEGAPARTS-landing .text-wrapper-40 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Exo 2", Helvetica;
+    font-weight: 500;
+    color: #ffffff;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .MEGAPARTS-landing .frame-36 {
+    justify-content: center;
+    gap: 10px;
+    padding: 5px 15px;
+    background-color: #5fb865;
+    display: inline-flex;
+    align-items: center;
+    position: relative;
+    flex: 0 0 auto;
+    border-radius: 25px;
+  }
+  
+  .MEGAPARTS-landing .frame-37 {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    padding: 5px 15px;
+    position: relative;
+    flex: 0 0 auto;
+    background-color: #63c7c9;
+    border-radius: 25px;
+  }
+  
+  .MEGAPARTS-landing .vector-12 {
+    position: relative;
+    width: 16.73px;
+    height: 15px;
+  }
+  
+  .MEGAPARTS-landing .frame-38 {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    padding: 5px 15px;
+    position: relative;
+    flex: 0 0 auto;
+    background-color: #dc5426;
+    border-radius: 25px;
+  }
+  
+  .MEGAPARTS-landing .frame-39 {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    padding: 5px 15px;
+    position: relative;
+    flex: 0 0 auto;
+    background-color: #e59d48;
+    border-radius: 25px;
+  }
+  
+  .MEGAPARTS-landing .frame-40 {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    padding: 5px 15px;
+    position: relative;
+    flex: 0 0 auto;
+    background-color: #bc5fe8;
+    border-radius: 25px;
+  }
+  
+  .MEGAPARTS-landing .frame-41 {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    padding: 5px 15px;
+    position: relative;
+    flex: 0 0 auto;
+    border-radius: 25px;
+    border: 1.5px solid;
+    border-color: transparent;
+    border-image: linear-gradient(to bottom, rgb(220, 84, 38), rgba(220, 84, 38, 0)) 1;
+  }
+  
+  .MEGAPARTS-landing .vector-13 {
+    position: relative;
+    width: 16.67px;
+    height: 15px;
+  }
+  
+  .MEGAPARTS-landing .text-wrapper-41 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1.5px;
+    background: linear-gradient(180deg, rgb(255, 255, 255) 0%, rgba(255, 255, 255, 0) 100%);
+    -webkit-background-clip: text !important;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-fill-color: transparent;
+    font-family: "Exo 2", Helvetica;
+    font-weight: 500;
+    color: transparent;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .MEGAPARTS-landing .rectangle-2 {
+    height: 10px;
+    top: 72px;
+    background-color: #008aee;
+    position: absolute;
+    width: 100%;
+    left: 0;
+  }
+  
+  .MEGAPARTS-landing .pointer {
+    position: absolute;
+    width: 16px;
+    height: 10px;
+    top: 64px;
+    left: 290px;
+  }
+  
+  .MEGAPARTS-landing .vector-14 {
+    position: absolute;
+    width: 7px;
+    height: 13px;
+    top: 30px;
+    left: 1298px;
+  }
+  
+  .MEGAPARTS-landing .overlap-5 {
+    position: absolute;
+    width: 100%;
+    height: 72px;
+    top: 0;
+    left: 0;
+    background-color: #19242d;
+  }
+  
+  .MEGAPARTS-landing .frame-42 {
+    display: flex;
+    width: 1170px;
+    height: 42px;
+    align-items: center;
+    justify-content: space-between;
+    position: relative;
+    top: 15px;
+    left: 275px;
+  }
+  
+  .MEGAPARTS-landing .frame-43 {
+    display: inline-flex;
+    align-items: center;
+    gap: 25px;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .MEGAPARTS-landing .media-logo-megaparts {
+    position: relative;
+    width: 217.24px;
+    height: 35.32px;
+  }
+  
+  .MEGAPARTS-landing .line {
+    position: relative;
+    width: 1px;
+    height: 32px;
+    object-fit: cover;
+  }
+  
+  .MEGAPARTS-landing .frame-44 {
+    display: inline-flex;
+    align-items: center;
+    gap: 20px;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .MEGAPARTS-landing .MEGACARS-wrapper {
+    position: relative;
+    width: 117px;
+    height: 29px;
+  }
+  
+  .MEGAPARTS-landing .div-3 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    opacity: 0.6;
+    font-weight: 900;
+    color: transparent;
+    font-size: 20px;
+    white-space: nowrap;
+    font-family: "Roboto", Helvetica;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .MEGAPARTS-landing .text-wrapper-42 {
+    font-family: "Roboto-CondensedBlack Italic", Helvetica;
+    font-style: italic;
+    color: #dc5426;
+  }
+  
+  .MEGAPARTS-landing .text-wrapper-43 {
+    font-family: "Roboto-CondensedBlack Italic", Helvetica;
+    font-style: italic;
+    color: #ffffff;
+  }
+  
+  .MEGAPARTS-landing .MEGA-wrapper {
+    position: relative;
+    width: 130px;
+    height: 29px;
+    margin-right: -2px;
+  }
+  
+  .MEGAPARTS-landing .text-wrapper-44 {
+    font-family: "Roboto-CondensedBlack Italic", Helvetica;
+    font-style: italic;
+    color: #e59d48;
+  }
+  
+  .MEGAPARTS-landing .frame-45 {
+    justify-content: flex-end;
+    gap: 25px;
+    padding: 5px 0px;
+    display: inline-flex;
+    align-items: center;
+    position: relative;
+    flex: 0 0 auto;
+    border-radius: 25px;
+  }
+  
+  .MEGAPARTS-landing .img-wrapper {
+    position: relative;
+    width: 105.36px;
+    height: 32px;
+  }
+  
+  .MEGAPARTS-landing .frame-46 {
+    position: absolute;
+    width: 97px;
+    height: 32px;
+    top: 0;
+    left: 0;
+  }
+  
+  .MEGAPARTS-landing .line-2 {
+    position: relative;
+    align-self: stretch;
+    width: 1px;
+    object-fit: cover;
+  }
+  
+  .MEGAPARTS-landing .frame-47 {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    position: relative;
+    flex: 0 0 auto;
+    border-radius: 6px;
+  }
+  
+  .MEGAPARTS-landing .vector-15 {
+    position: relative;
+    width: 11.66px;
+    height: 15px;
+  }
+  
+  .MEGAPARTS-landing .text-wrapper-45 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Exo 2", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 20px;
+    white-space: nowrap;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .MEGAPARTS-landing .group-3 {
+    position: relative;
+    width: 63.57px;
+    height: 20px;
+  }
+  
+  .MEGAPARTS-landing .group-4 {
+    position: relative;
+    width: 145px;
+    height: 24px;
+    margin-right: -2px;
+  }
+  
+  .MEGAPARTS-landing .vector-16 {
+    position: absolute;
+    width: 18px;
+    height: 18px;
+    top: 3px;
+    left: 0;
+  }
+  
+  .MEGAPARTS-landing .text-wrapper-46 {
+    position: absolute;
+    top: 0;
+    left: 23px;
+    font-family: "Exo 2", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .MEGAPARTS-landing .map-desktop {
+    position: absolute;
+    width: 1179px;
+    height: 687px;
+    top: 2372px;
+    left: 250px;
+    background-image: url(/img/vector.png);
+    background-size: 100% 100%;
+  }
+  
+  .MEGAPARTS-landing .map-pin-to-right {
+    top: 221px;
+    left: 141px;
+    position: absolute;
+    width: 346px;
+    height: 105px;
+  }
+  
+  .MEGAPARTS-landing .map-pin-to-left {
+    top: 119px;
+    left: 753px;
+    position: absolute;
+    width: 346px;
+    height: 105px;
+  }
+  
+  .MEGAPARTS-landing .FOOTER-desktop-wrapper {
+    position: absolute;
+    width: 100%;
+    height: 300px;
+    top: 3178px;
+    left: 0;
+    background-color: #202d39;
+  }
+  
+  .MEGAPARTS-landing .FOOTER-desktop {
+    display: inline-flex;
+    align-items: flex-start;
+    gap: 32px;
+    position: relative;
+    top: 35px;
+    left: 250px;
+  }
+  
+  .MEGAPARTS-landing .view-14 {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 16px;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .MEGAPARTS-landing .frame-48 {
+    display: flex;
+    width: 271px;
+    height: 165px;
+    align-items: flex-start;
+    gap: 10px;
+    padding: 15px;
+    position: relative;
+    background-color: #19242d;
+    border-radius: 10px;
+  }
+  
+  .MEGAPARTS-landing .frame-49 {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 15px;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .MEGAPARTS-landing .text-wrapper-47 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Exo 2", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 16px;
+    white-space: nowrap;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .MEGAPARTS-landing .text-wrapper-48 {
+    position: relative;
+    width: fit-content;
+    font-family: "Exo 2", Helvetica;
+    font-weight: 500;
+    color: #ffffff;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .MEGAPARTS-landing .MEGAPARTS {
+    position: relative;
+    width: fit-content;
+    font-family: "Exo 2", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .MEGAPARTS-landing .text-wrapper-49 {
+    font-family: "Roboto", Helvetica;
+    font-weight: 700;
+  }
+  
+  .MEGAPARTS-landing .frame-50 {
+    display: flex;
+    width: 271px;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    padding: 15px;
+    background-color: #19242d;
+    border-radius: 10px;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .MEGAPARTS-landing .text-wrapper-50 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Exo 2", Helvetica;
+    font-weight: 700;
+    color: #5fb865;
+    font-size: 16px;
+    white-space: nowrap;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .MEGAPARTS-landing .view-15 {
+    display: flex;
+    width: 271px;
+    height: 230px;
+    align-items: flex-start;
+    gap: 10px;
+    padding: 15px;
+    position: relative;
+    background-color: #19242d;
+    border-radius: 10px;
+  }
+  
+  .MEGAPARTS-landing .frame-51 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 10px;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    flex: 0 0 auto;
+  }
+  
+  .MEGAPARTS-landing .text-wrapper-51 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Exo 2", Helvetica;
+    font-weight: 500;
+    color: #fdfdfd;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .MEGAPARTS-landing .text-wrapper-52 {
+    position: relative;
+    width: fit-content;
+    font-family: "Exo 2", Helvetica;
+    font-weight: 500;
+    color: #fdfdfd;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .MEGAPARTS-landing .text-wrapper-53 {
+    position: relative;
+    align-self: stretch;
+    font-family: "Exo 2", Helvetica;
+    font-weight: 500;
+    color: #fdfdfd;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .MEGAPARTS-landing .MEGAPARTS-2 {
+    display: flex;
+    flex-direction: column;
+    width: 271px;
+    height: 230px;
+    align-items: center;
+    justify-content: space-between;
+    padding: 25px 15px;
+    position: relative;
+    background-color: #19242d;
+    border-radius: 10px;
+  }
+  
+  .MEGAPARTS-landing .frame-52 {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .MEGAPARTS-landing .frame-53 {
+    position: relative;
+    height: 48px;
+  }
+  
+  .MEGAPARTS-landing .text-wrapper-54 {
+    position: relative;
+    width: 213px;
+    height: 23px;
+    margin-top: -9px;
+    font-family: "Roboto", Helvetica;
+    font-weight: 500;
+    color: #999999;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .MEGAPARTS-landing .MEGACARS {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    opacity: 0.6;
+    font-family: "Roboto", Helvetica;
+    font-weight: 900;
+    color: transparent;
+    font-size: 25px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .MEGAPARTS-landing .MEGA-2 {
+    position: relative;
+    width: fit-content;
+    opacity: 0.6;
+    font-weight: 900;
+    color: transparent;
+    font-size: 25px;
+    white-space: nowrap;
+    font-family: "Roboto", Helvetica;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .MEGAPARTS-landing .banners-slider {
+    position: absolute;
+    width: 100%;
+    height: 299px;
+    top: 408px;
+    left: 0;
+    background-image: url(/img/rectangle-100.png);
+    background-size: 100% 100%;
+  }
+  
+  .MEGAPARTS-landing .ellipse-4 {
+    position: absolute;
+    width: 9px;
+    height: 9px;
+    top: 280px;
+    left: 834px;
+    background-color: #008aee;
+    border-radius: 4.33px;
+    box-shadow: 0px 0px 10px #00000026;
+  }
+  
+  .MEGAPARTS-landing .ellipse-5 {
+    position: absolute;
+    width: 9px;
+    height: 9px;
+    top: 280px;
+    left: 847px;
+    background-color: #ffffff;
+    border-radius: 4.33px;
+    box-shadow: 0px 0px 10px #00000026;
+  }
+  
+  .MEGAPARTS-landing .ellipse-6 {
+    position: absolute;
+    width: 9px;
+    height: 9px;
+    top: 280px;
+    left: 861px;
+    background-color: #ffffff;
+    border-radius: 4.33px;
+    box-shadow: 0px 0px 10px #00000026;
+  }
+  
+  .MEGAPARTS-landing .ellipse-7 {
+    position:absolute;
+    width: 9px;
+    height: 9px;
+    top: 280px;
+    left: 875px;
+    background-color: #ffffff;
+    border-radius: 4.33px;
+    box-shadow: 0px 0px 10px #00000026;
+  }
+  
