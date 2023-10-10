@@ -1869,8 +1869,8 @@
   height: 687px;
   top: 2372px;
   left: 250px;
-  background-image: url(./img/vector.png);
-  background-size: 100% 100%;
+  background-image: url(/img/vector.png);
+  background-size: 100% 100%; 
 }
 
 .MEGAPARTS-landing .map-pin-to-right {
@@ -2132,7 +2132,7 @@
   height: 299px;
   top: 408px;
   left: 0;
-  background-image: url(./img/rectangle-100.png);
+  background-image: url(/img/rectangle-100.png);
   background-size: 100% 100%;
 }
 
