@@ -1,0 +1,31 @@
+html{
+  background-color: #369;
+}
+
+.animal {
+  width: 20em;
+  border: 1px solid #FFF;
+  border-radius: 8px;
+  padding: 16px;
+  margin: 8px;
+  background-color: #ddd;
+  text-align: center;
+  display: inline-block;
+}
+
+.animal-name {
+  font-size: 1.2rem;
+  font-weight: bold;
+}
+
+.mammal {
+  color: green;
+}
+
+.not-mammal {
+  color: red;
+}
+
+h1{
+  text-align: center;
+}
