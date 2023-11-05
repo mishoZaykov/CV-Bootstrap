@@ -1,0 +1,148 @@
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    background: linear-gradient(90deg, rgba(63,94,251,1) 0%, rgba(70,252,115,1) 100%);
+}
+
+.form-container {
+    max-width: 400px;
+    margin: 0 auto;
+    background-color: rgba(255, 255, 255, 0.801);
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    margin-top: 100px;
+}
+
+h1 {
+    margin-top: 20px;
+    text-align: center;
+}
+
+label,
+input,
+textarea {
+    display: block;
+    margin-bottom: 10px;
+}
+
+label {
+    font-weight: bold;
+}
+
+input,
+textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+textarea {
+    resize: vertical;
+}
+
+input[type="submit"] {
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+input[type="submit"]:hover {
+    background-color: #0056b3;
+}
+
+.home{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.home h2, p {
+    font-size: 3em;
+    color: #ddd;
+}
+
+.cars-list{
+    max-width: 400px;
+    margin: 0 auto;
+    background-color: rgba(255, 255, 255, 0.801);
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    margin-top: 20px;
+}
+
+.nav {
+    background-color: #333;
+    color: white;
+    display: flex;
+}
+
+.nav ul {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    list-style-type: none;
+    gap: 4em;
+}
+
+.nav li:hover {
+    color: rgba(253, 137, 253, 0.637);
+}
+
+.nav a {
+    text-decoration: none;
+    color: inherit;
+}
+
+
+.container{
+    max-width: 400px;
+    margin: 0 auto;
+    background-color: rgba(255, 255, 255, 0.801);
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    margin-top: 100px;
+}
+
+.container h2 {
+    text-align: center;
+}
+
+.container p{
+    color: #369;
+}
+
+.edit{
+    max-width: 400px;
+    margin: 0 auto;
+    background-color: rgba(255, 255, 255, 0.801);
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    margin-left: 50%;
+}
+
+.editButton{
+    background-color: rgba(255, 255, 255, 0.801);
+    color: #369;
+    padding: 10px 20px;
+    border: none;   
+    border-radius: 4px;
+    cursor: pointer;
+    display: block;
+    justify-content: center;
+    align-items: center;
+}
