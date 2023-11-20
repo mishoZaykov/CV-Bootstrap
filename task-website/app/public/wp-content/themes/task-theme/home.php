@@ -23,7 +23,6 @@
                 <p class="about-content">Immerse yourself in a world of innovation, power, and precision. At Tech Picker, we invite you to explore our extensive range of PC components and tech hardware. Whether you're a seasoned gamer, a content creator, or a professional seeking unparalleled performance, we have the tools to elevate your digital experience.</p>
             </div>
 
-
         </div>
     </div>
     <div class="services-section" id="services-section">
