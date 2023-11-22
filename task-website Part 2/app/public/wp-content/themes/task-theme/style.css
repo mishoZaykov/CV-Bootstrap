@@ -1,0 +1,205 @@
+/*
+Theme Name: Task Theme 
+Author: Mihail Zaykov
+Version: 1.0
+*/
+
+@import url("https://fonts.googleapis.com/css?family=PT+Serif");
+@import url("https://fonts.googleapis.com/css?family=PT+Sans:400,700");
+
+html {
+    font: 16px/1.5 "PT Sans, PT Serif", sans-serif;
+}
+
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
+html, body {
+    scroll-behavior: smooth;
+}
+
+body {
+    padding: 0;
+    margin: 0;
+}
+
+.logo {
+    font-weight: bold;
+    line-height: 2;
+    padding: 0 4em 0 3em;
+    color: rgba(137, 174, 253);
+    margin-top: 12px;
+}
+
+.nav {
+    background-color: #333;
+    color: white;
+    display: flex;
+
+}
+
+.nav .search{
+    margin-left: 50px;
+}
+
+.nav ul {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    list-style-type: none;
+    gap: 4em;
+}
+
+.nav li:hover {
+    color: rgba(137, 174, 253, 0.637);
+}
+
+.nav a {
+    text-decoration: none;
+    color: inherit;
+    cursor: pointer;
+}
+
+.footer {
+    position: absolute;
+    right: 0;
+    bottom: auto;
+    left: 0;
+    padding: 1rem;
+    background-color: #333;
+    text-align: center;
+    color: white;
+    margin: 0;
+}
+
+.hero-section {
+    background-repeat: no-repeat;
+    background-image: url(../PC_Components.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    height: 50%;
+}
+
+.hero-section .container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.hero-section .container h1 {
+    margin: 0;
+    color: white;
+    text-align: center;
+    padding: 2em;
+    font-size: 3em;
+}
+
+.hero-section .container a {
+    text-decoration: none;
+    color: black;
+    border: 1px solid black;
+    padding: 1em 3em;
+    background: white;
+    border-radius: 5px;
+}
+
+.hero-section .container a:hover {
+    background: rgba(137, 174, 253, 0.637);
+}
+
+.about-section .container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 10em;
+    padding: 5em 0;
+}
+
+.about-section .container .about-title {
+    color: rgba(137, 174, 253);
+    border-bottom: 1px solid #ddd;
+}
+
+.about-section .container .about-content {
+    max-width: 70ch;
+}
+
+.services-section {
+    background: rgba(137, 174, 253, 0.637);
+    display: flex;
+    gap: 5em;
+    padding: 5em 5em;
+    justify-content: center;
+}
+
+
+.contact-container {
+    max-width: 400px;
+    margin: 0 auto;
+    background-color: rgba(255, 255, 255, 0.801);
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+
+h1 {
+    margin-top: 20px;
+    text-align: center;
+}
+
+label,
+input,
+textarea {
+    display: block;
+    margin-bottom: 10px;
+}
+
+label {
+    font-weight: bold;
+}
+
+input,
+textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+textarea {
+    resize: vertical;
+}
+
+input[type="submit"] {
+    background: rgba(137, 174, 253);
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+input[type="submit"]:hover {
+    background-color: #0056b3;
+}
+
+.not-found{
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    background-color: #ddd;
+}
+
+.not-found h1{
+    color: #0056b3;
+    font-size: 70px;
+}
+
